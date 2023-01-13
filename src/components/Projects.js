@@ -47,6 +47,12 @@ export const Projects = () => {
       imgUrl: projImg3,
       linkDemo: 'https://macthien314.github.io/Bake-LandingPage/'
     },
+       {
+      title: "Education Website",
+      description: "Lading Page",
+      imgUrl: projImg7,
+      linkDemo: 'https://macthien314.github.io/WebEducation-Bootstrap5/'
+    },
     {
       title: "Game Gourd Crab shrimp fish",
       description: "Design & Development",
@@ -64,14 +70,9 @@ export const Projects = () => {
       description: "Lading Page",
       imgUrl: projImg6,
       linkDemo: 'https://macthien314.github.io/Band-Web-Html-Css/index.html'
-    },
-
-    {
-      title: "Education Website",
-      description: "Lading Page",
-      imgUrl: projImg7,
-      linkDemo: 'https://macthien314.github.io/WebEducation-Bootstrap5/'
     }
+
+ 
   ];
 
   return (
