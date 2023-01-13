@@ -8,6 +8,7 @@ import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
+import projImg9 from "../assets/img/project-img9.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -63,7 +64,14 @@ export const Projects = () => {
       title: "Blogging NodeJS",
       description: `ExpressJS, MongoDB, CRUD, sort, filter, search item, Pagination, Login, Logout`,
       imgUrl: projImg8,
-      linkDemo: 'https://http-nodejs-production-e8eb.up.railway.app/'
+      linkDemo: 'https://blogging314.up.railway.app/'
+    },
+
+    {
+      title: "FastFood Website",
+      description: `Reactjs, Bootstrap, Redux Toolkit, cart, search item, Pagination`,
+      imgUrl: projImg9,
+      linkDemo: 'https://blogging314.up.railway.app/'
     },
 
   ];
