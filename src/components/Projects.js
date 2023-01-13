@@ -71,7 +71,7 @@ export const Projects = () => {
       title: "FastFood Website",
       description: `Reactjs, Bootstrap, Redux Toolkit, cart, search item, Pagination`,
       imgUrl: projImg9,
-      linkDemo: 'https://blogging314.up.railway.app/'
+      linkDemo: 'https://fastfood-shop314.vercel.app/'
     },
 
   ];
