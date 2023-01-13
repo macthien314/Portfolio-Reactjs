@@ -29,6 +29,19 @@ export const Projects = () => {
       linkDemo: 'https://macthien314.github.io/SellCourses-Web-SCSS/'
     },
     {
+      title: "Blogging NodeJS",
+      description: `ExpressJS, MongoDB, CRUD, sort, filter, search item, Pagination, Login, Logout`,
+      imgUrl: projImg8,
+      linkDemo: 'https://blogging314.up.railway.app/'
+    },
+
+    {
+      title: "FastFood Website",
+      description: `Reactjs, Bootstrap, Redux Toolkit, cart, search item, Pagination`,
+      imgUrl: projImg9,
+      linkDemo: 'https://fastfood-shop314.vercel.app/'
+    },
+    {
       title: "Bake website",
       description: "Design & Development",
       imgUrl: projImg3,
@@ -58,22 +71,7 @@ export const Projects = () => {
       description: "Lading Page",
       imgUrl: projImg7,
       linkDemo: 'https://macthien314.github.io/WebEducation-Bootstrap5/'
-    },
-
-    {
-      title: "Blogging NodeJS",
-      description: `ExpressJS, MongoDB, CRUD, sort, filter, search item, Pagination, Login, Logout`,
-      imgUrl: projImg8,
-      linkDemo: 'https://blogging314.up.railway.app/'
-    },
-
-    {
-      title: "FastFood Website",
-      description: `Reactjs, Bootstrap, Redux Toolkit, cart, search item, Pagination`,
-      imgUrl: projImg9,
-      linkDemo: 'https://fastfood-shop314.vercel.app/'
-    },
-
+    }
   ];
 
   return (
